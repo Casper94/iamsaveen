@@ -1,0 +1,1 @@
+web: gunicorn Iamsaveen.wsgi:application --log-file -
