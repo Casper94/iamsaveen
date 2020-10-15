@@ -27,7 +27,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'oiekhkb538pv4xa!-(fp9qbo&t=h#1wy$)m=-#9phfz#bb76t!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
@@ -41,12 +41,13 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'mysite',
+    'mysite.apps.MysiteConfig',
+    'members.apps.MembersConfig',
+    'ckeditor',
 ]
 
 MIDDLEWARE = [
-    # 'django.middleware.security.SecurityMiddleware',
-    # 'whitenoise.middleware.WhiteNoiseMiddleware',
+
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -92,10 +93,17 @@ WSGI_APPLICATION = 'Iamsaveen.wsgi.application'
 #     }
 # }
 
-# new
 DATABASES = {
-    'default': dj_database_url.config()
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    }
 }
+
+# new
+# DATABASES = {
+#     'default': dj_database_url.config()
+# }
 
 # Password validation
 # https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators
@@ -137,9 +145,13 @@ USE_TZ = True
 # DATABASES['default'].update(db_from_env)
 
 STATIC_URL = '/static/'
+MEDIA_URL = '/media/'
+
 
 # new
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
 django_heroku.settings(locals())
 
 STATICFILES_DIRS = (
@@ -148,5 +160,5 @@ STATICFILES_DIRS = (
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 
-# LOGIN_REDIRECT_URL ='/home'
-# LOGOUT_REDIRECT_URL ='/accounts/login'
+LOGIN_REDIRECT_URL ='index'
+LOGOUT_REDIRECT_URL ='login'

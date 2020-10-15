@@ -1,0 +1,29 @@
+{% extends 'mysite/base.html' %}
+{% load static %}
+
+{% block title %}
+    <title>Login</title>
+{% endblock %}
+{% block content %}
+    <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
+        <div class="container">
+            <div class="row justify-content-center mb-5 pb-3">
+                <div class="col-md-7 heading-section text-center ftco-animate">
+                    <h2 class="mb-4">Login</h2>
+
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="order-md-last d-flex">
+                    <form method="POST" class="bg-light p-4 p-md-5 contact-form">
+                        {% csrf_token %}
+                        {{ form.as_p }}
+                        <button type="submit" class="btn btn-primary py-3 px-5">Login</button>
+                </div>
+            </div>
+
+
+          </div>
+    </section>
+
+{% endblock %}

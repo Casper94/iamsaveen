@@ -1,0 +1,44 @@
+{% extends 'mysite/base.html' %}
+{% load static from staticfiles %}
+
+{% block title %}
+    <title>{{ cats }} Category Blogs</title>
+{% endblock %}
+
+
+{% block content %}
+
+    <section class="ftco-section" id="blog-section">
+      <div class="container">
+        <div class="row justify-content-center mb-5 pb-5">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+            <h2 class="mb-4">My Blog Posts</h2>
+            <p>All the blogs under the category<strong> {{ cats.title }}</strong></p>
+          </div>
+        </div>
+        <div class="row d-flex">
+            {% for post in category_posts %}
+                <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                        <a href="{% url 'blogpost-detail' post.pk %}"  class="block-20" style="background-image: url({% static 'mysite/images/image_1.jpg' %});">
+                        </a>
+                        <div class="text mt-3 float-right d-block">
+                            <div class="d-flex align-items-center mb-3 meta">
+                                <p class="mb-0">
+                                <span class="mr-2">{{ post.date_posted  }}</span>
+                                <a href="#" class="mr-2">{{ post.author }}</a>
+                                <a href="{% url 'categories' post.category|slugify %} }}" class="mr-2">{{ post.category }}</a>
+                                <a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
+                                </p>
+                            </div>
+                            <h3 class="heading"><a href="{% url 'blogpost-detail' post.pk %}" >{{ post.title }} -</a></h3>
+                            <p>{{ post.content }}</p>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+
+        </div>
+      </div>
+    </section>
+{% endblock %}

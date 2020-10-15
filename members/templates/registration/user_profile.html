@@ -1,0 +1,55 @@
+
+
+{% extends 'mysite/base.html' %}
+{% load static %}
+
+{% block title %}
+    <title>User Profile</title>
+{% endblock %}
+
+{% block content %}
+    {% if user.is_authenticated %}
+    <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
+        <div class="container">
+            <div class="row justify-content-center mb-5 pb-3">
+                <div class="col-md-7 heading-section text-center ftco-animate">
+                    <h2 class="mb-4">User Profile</h2>
+                </div>
+            </div>
+            <div class="about-author d-flex p-4 bg-dark">
+                    <div class="bio mr-5">
+                        {% if page_user.profile_picture %}
+                            <img src="{{ page_user.profile_picture.url }}" alt="Image placeholder" class="img-fluid mb-4">
+                        {% else %}
+                           <img src="{% static 'mysite/images/person_1.jpg' %}" alt="Image  this placeholder" class="img-fluid mb-4">
+                        {% endif %}
+                    </div>
+                    <div class="desc">
+                        <h3><a href="{% url 'show-profile' page_user.id  %}"> {{ page_user.user.first_name }} {{ page_user.user.last_name }}</a></h3>
+                        <p>{{ page_user.bio }}</p>
+                </div>
+                </div>
+
+
+
+          </div>
+    </section>
+    {% else %}
+        <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
+            <div class="container">
+                <div class="row justify-content-center mb-5 pb-3">
+                    <div class="col-md-7 heading-section text-center ftco-animate">
+                        <h2 class="mb-4">No User Profile</h2>
+                    </div>
+                </div>
+                <div class="order-md-last d-flex">
+                    <h3>User Not Recognised.</h3>
+                    <br>
+                </div>
+                <div>
+                    <p> You're not authorised to User Profile.</p>
+                </div>
+              </div>
+        </section>
+    {% endif %}
+{% endblock %}

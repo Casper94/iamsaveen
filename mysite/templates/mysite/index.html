@@ -1,4 +1,4 @@
-{% extends 'base.html' %}
+{% extends 'mysite/base.html' %}
 {% load static from staticfiles %}
 
 {% block title %}
@@ -12,15 +12,15 @@
 	      	<div class="overlay"></div>
 	        <div class="container">
 	          <div class="row d-md-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-	          	<div class="one-third js-fullheight order-md-last img" style="background-image:url({% static 'images/saveen-bg-1.png' %});">
+	          	<div class="one-third js-fullheight order-md-last img" style="background-image: url({% static 'mysite/images/saveen-bg-1.png' %});">
 	          		<div class="overlay"></div>
 	          	</div>
 		          <div class="one-forth d-flex  align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 		          	<div class="text">
 		          		<span class="subheading">Hello!</span>
 			            <h1 class="mb-4 mt-3">I'm <span>Saveen Shrestha</span></h1>
-			            <h2 class="mb-4">A Freelance Web | s/w Developer</h2>
-			            <p><a href="{% url 'contact_me' %}" class="btn btn-primary py-3 px-4">Hire me</a> <a href="{% url 'projects' %}" class="btn btn-white btn-outline-white py-3 px-4">My works</a></p>
+			            <h3 class="mb-4">Welcome to my personal website.</h3>
+			            <p><a href="{% url 'contact_me' %}" class="btn btn-primary py-3 px-4">Let's work together</a> <a href="{% url 'projects' %}" class="btn btn-white btn-outline-white py-3 px-4">My works</a></p>
 		            </div>
 		          </div>
 	        	</div>
@@ -31,14 +31,14 @@
 	      	<div class="overlay"></div>
 	        <div class="container">
 	          <div class="row d-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-	          	<div class="one-third js-fullheight order-md-last img" style="background-image:url({% static 'images/saveen-bg-4.png' %});">
+	          	<div class="one-third js-fullheight order-md-last img" style="background-image: url({% static 'mysite/images/saveen-bg-4.png' %});">
 	          		<div class="overlay"></div>
 	          	</div>
 		          <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 		          	<div class="text">
-		          		<span class="subheading">Hello!</span>
+
 			            <h1 class="mb-4 mt-3">I specialize in <span>Python </span> and it's Frameworks.</h1>
-			            <p><a href="{% url 'contact_me' %}" class="btn btn-primary py-3 px-4">Hire me</a> <a href="{% url 'projects' %} " class="btn btn-white btn-outline-white py-3 px-4">My works</a></p>
+			            <p><a href="{% url 'contact_me' %}" class="btn btn-primary py-3 px-4">Let's work together</a> <a href="{% url 'projects' %} " class="btn btn-white btn-outline-white py-3 px-4">My works</a></p>
 		            </div>
 		          </div>
 	        	</div>

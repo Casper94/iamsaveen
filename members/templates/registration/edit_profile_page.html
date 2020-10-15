@@ -1,0 +1,44 @@
+
+{% extends 'mysite/base.html' %}
+{% load static %}
+
+{% block title %}
+    <title>Edit Profile Page</title>
+{% endblock %}
+{% block content %}
+    {% if user.is_authenticated %}
+        {% if user.id == profile.user.id %}
+        <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
+        <div class="container">
+            <div class="row justify-content-center mb-5 pb-3">
+                <div class="col-md-7 heading-section text-center ftco-animate">
+                    <h2 class="mb-4">Edit Profile</h2>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="order-md-last d-flex">
+                    <form method="POST" class="bg-light p-4 p-md-5 contact-form" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        {{ form.as_p }}
+                        <button type="submit" class="btn btn-primary py-3 px-5">Update Profile Page</button>
+                </div>
+                <script>
+                    var authId = "{{ user.id }}"
+                    document.getElementById("author").value = authId
+                </script>
+            </div>
+          </div>
+    </section>
+        {% else %}
+                    <div>
+                        <p> you're not authorised to Edit this profile.</p>
+                    </div>
+        {% endif %}
+    {% else %}
+            <div>
+                <p> you're not authorised to Edit this profile.</p>
+            </div>
+
+    {% endif %}
+{% endblock %}
+
