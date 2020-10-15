@@ -2,217 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18df20d5-a122-4ee8-9fef-69416e96fa77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/members/templates/registration/change-password.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/members/templates/registration/create_userprofile_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/members/templates/registration/edit_profile_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/members/templates/registration/edit_settings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/members/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/members/templates/registration/password_success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/members/templates/registration/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/members/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/static/mysite/css/css/mixins/_text-hide.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/templates/mysite/add_category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/templates/mysite/add_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/templates/mysite/categories.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/templates/mysite/contact_me.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/templates/mysite/delete_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/templates/mysite/resume.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/templates/mysite/update_post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iamsaveen/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iamsaveen/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iamsaveen/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iamsaveen/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/ajax-loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/ajax-loader.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/aos.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/aos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/bootstrap/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/bootstrap/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/bootstrap/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/css/mixins/_text-hide.css" beforeDir="false" afterPath="$PROJECT_DIR$/members/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/flaticon.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/flaticon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/icomoon.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/icomoon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/ionicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/ionicons.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/magnific-popup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/open-iconic-bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/open-iconic-bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/owl.carousel.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/owl.theme.default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/owl.theme.default.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/flaticon/backup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/flaticon/backup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/flaticon/font/Flaticon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/flaticon/font/Flaticon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/flaticon/font/Flaticon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/flaticon/font/Flaticon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/flaticon/font/Flaticon.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/flaticon/font/Flaticon.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/flaticon/font/_flaticon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/flaticon/font/_flaticon.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/flaticon/font/flaticon.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/flaticon/font/flaticon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/flaticon/font/flaticon.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/flaticon/font/flaticon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/flaticon/license/license.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/flaticon/license/license.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/icomoon/icomoon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/icomoon/icomoon.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/icomoon/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/icomoon/icomoon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/icomoon/icomoon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/icomoon/icomoon.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/icomoon/icomoon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/icomoon/icomoon.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/ionicons/css/_ionicons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/ionicons/css/_ionicons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/ionicons/css/ionicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/ionicons/css/ionicons.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/ionicons/fonts/ionicons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/ionicons/fonts/ionicons.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/ionicons/fonts/ionicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/ionicons/fonts/ionicons.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/ionicons/fonts/ionicons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/ionicons/fonts/ionicons.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/ionicons/fonts/ionicons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/ionicons/fonts/ionicons.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/ionicons/fonts/ionicons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/ionicons/fonts/ionicons.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/open-iconic/open-iconic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/open-iconic/open-iconic.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/open-iconic/open-iconic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/open-iconic/open-iconic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/open-iconic/open-iconic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/open-iconic/open-iconic.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/open-iconic/open-iconic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/open-iconic/open-iconic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/fonts/open-iconic/open-iconic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/fonts/open-iconic/open-iconic.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/about-saveen.png" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/about-saveen.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/about.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/about.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/bg_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/bg_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/bg_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/bg_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/image_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/image_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/image_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/image_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/image_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/image_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/loc.png" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/loc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/person_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/person_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/person_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/person_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/person_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/person_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/person_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/person_4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/project-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/project-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/project-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/project-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/project-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/project-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/project-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/project-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/project-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/project-5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/project-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/project-6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/saveen-bg-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/saveen-bg-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/saveen-bg-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/saveen-bg-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/saveen-bg-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/saveen-bg-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/saveen-bg-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/saveen-bg-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/staff-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/staff-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/staff-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/staff-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/staff-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/staff-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/images/staff-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/images/staff-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/aos.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/aos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/google-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/google-map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/jquery-migrate-3.0.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/jquery.animateNumber.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/jquery.animateNumber.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/jquery.easing.1.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/jquery.easing.1.3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/jquery.stellar.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/jquery.stellar.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/jquery.waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/jquery.waypoints.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/owl.carousel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/popper.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/js/scrollax.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/scrollax.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_alert.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_badge.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_breadcrumb.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_breadcrumb.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_button-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_button-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_card.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_carousel.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_close.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_close.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_code.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_code.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_custom-forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_custom-forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_dropdown.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_images.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_images.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_input-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_input-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_jumbotron.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_jumbotron.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_list-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_media.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_modal.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_nav.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_pagination.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_popover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_popover.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_print.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_print.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_progress.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_progress.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_reboot.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_root.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_root.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_spinners.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_spinners.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_tables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_tables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_toasts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_toasts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_tooltip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_tooltip.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_transitions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_transitions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_type.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_type.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/bootstrap-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/bootstrap-grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/bootstrap-reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/bootstrap-reboot.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/bootstrap.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_alert.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_background-variant.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_background-variant.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_badge.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_border-radius.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_border-radius.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_box-shadow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_box-shadow.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_breakpoints.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_caret.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_caret.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_clearfix.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_deprecate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_deprecate.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_float.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_float.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_gradients.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_gradients.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_grid-framework.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_hover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_hover.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_image.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_list-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_lists.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_lists.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_nav-divider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_pagination.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_reset-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_reset-text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_resize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_resize.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_screen-reader.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_size.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_size.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_table-row.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_table-row.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_text-hide.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_text-hide.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_text-truncate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_text-truncate.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_transition.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_transition.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/mixins/_visibility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/mixins/_visibility.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_align.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_align.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_background.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_background.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_borders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_borders.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_clearfix.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_display.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_display.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_embed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_embed.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_flex.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_flex.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_float.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_float.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_overflow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_overflow.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_position.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_position.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_screenreaders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_screenreaders.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_shadows.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_shadows.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_sizing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_sizing.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_spacing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_spacing.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_stretched-link.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_stretched-link.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/utilities/_visibility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/utilities/_visibility.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/bootstrap/vendor/_rfs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/vendor/_rfs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/contact_me.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/myblog.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/myblog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/prepros-6.config" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/prepros-6.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/resume.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/skills.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -296,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Iamsaveen/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="-840">
+              <caret line="103" selection-start-line="103" selection-end-line="106" />
               <folding>
                 <element signature="e#310#319#0" expanded="true" />
               </folding>
@@ -326,7 +116,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -452,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1137" />
     <option name="y" value="28" />
     <option name="width" value="1382" />
@@ -470,6 +260,11 @@
           <expand>
             <path>
               <item name="Iamsaveen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Iamsaveen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Iamsaveen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Iamsaveen" type="462c0819:PsiDirectoryNode" />
               <item name="Iamsaveen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -556,12 +351,12 @@
       <workItem from="1599905265655" duration="14900000" />
       <workItem from="1601267646727" duration="13696000" />
       <workItem from="1601394849482" duration="34260000" />
-      <workItem from="1601972552724" duration="100799000" />
+      <workItem from="1601972552724" duration="102495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195005000" />
+    <option name="totallyTimeSpent" value="196701000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -579,7 +374,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.14901665" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.4969743" visible="true" weight="0.32206118" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.4969743" visible="true" weight="0.36553946" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5030257" side_tool="true" weight="0.29951692" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" />
@@ -594,7 +389,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
       <window_info anchor="right" id="SciView" order="4" weight="0.32980332" />
     </layout>
     <layout-to-restore>
@@ -983,16 +778,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Iamsaveen/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#310#319#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1009,6 +794,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iamsaveen/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840">
+          <caret line="103" selection-start-line="103" selection-end-line="106" />
+          <folding>
+            <element signature="e#310#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
