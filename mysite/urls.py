@@ -12,7 +12,7 @@ from .views import (
 )
 
 urlpatterns = [
-    path('', views.index, name = "index"),
+    path('', views.home, name ="home"),
     path('about/', views.about, name = 'about'),
     path('resume/', views.resume, name = 'resume'),
     path('skills/', views.skills, name = 'skills'),

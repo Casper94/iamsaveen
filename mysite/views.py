@@ -6,8 +6,8 @@ from .forms import PostForm, EditForm, CommentForm
 from django.urls import reverse_lazy
 
 # Create your views here.
-def index(request):
-    return render(request, 'mysite/index.html')
+def home(request):
+    return render(request, 'mysite/home.html')
 
 def about(request):
     return render(request, 'mysite/about.html')
