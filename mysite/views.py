@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponseRedirect
 from django.views.generic import ListView, DetailView, CreateView, UpdateView, DeleteView, View
-from .models import Post, Category, Comment
+from .models import Post, Comment #, Category
 from .forms import PostForm, EditForm, CommentForm
 from django.urls import reverse_lazy
 
@@ -31,9 +31,9 @@ def projects(request):
 def contact_me(request):
     return render(request, 'mysite/contact_me.html')
 
-def categoryView(request, cats):
-    category_posts = Post.objects.filter(category=cats.replace('-', ' '))
-    return render(request, 'mysite/categories.html', {'cats': cats.replace('-', ' '), 'category_posts': category_posts})
+# def categoryView(request, cats):
+#     category_posts = Post.objects.filter(category=cats.replace('-', ' '))
+#     return render(request, 'mysite/categories.html', {'cats': cats.replace('-', ' '), 'category_posts': category_posts})
 
 
 class BlogHomeView(ListView):
@@ -46,10 +46,10 @@ class BlogPostDetailView(DetailView):
     template_name = 'mysite/post_detail.html'
 
     def get_context_data(self, *args, **kwargs):
-        cat_list = Category.objects.all()
+        # cat_list = Category.objects.all()
         recent_blogs = Post.objects.all()
         context = super(BlogPostDetailView, self).get_context_data(*args, **kwargs)
-        context["cat_list"] = cat_list
+        # context["cat_list"] = cat_list
         context["recent_blogs"] = recent_blogs
         return context
 
@@ -79,10 +79,10 @@ class AddBlogPostView(CreateView):
 
 
 
-class AddCategoryView(CreateView):
-    model = Category
-    template_name = 'mysite/add_category.html'
-    fields = '__all__'
+# class AddCategoryView(CreateView):
+#     model = Category
+#     template_name = 'mysite/add_category.html'
+#     fields = '__all__'
 
 
 class UpdateBlogPostView(UpdateView):
@@ -102,4 +102,3 @@ class DeletePostView(DeleteView):
             return HttpResponseRedirect(url)
         else:
             return super(DeletePostView, self).post(request, *args, **kwargs)
-

@@ -5,14 +5,14 @@ from django.urls import reverse
 from ckeditor.fields import RichTextField
 
 # Create your models here.
-class Category(models.Model):
-    name = models.CharField(max_length=100)
-
-    def __str__(self):
-        return self.name
-
-    def get_absolute_url(self):
-        return reverse('blog')
+# class Category(models.Model):
+#     name = models.CharField(max_length=100, null=True)
+#
+#     def __str__(self):
+#         return self.name
+#
+#     def get_absolute_url(self):
+#         return reverse('blog')
 
 
 class Post(models.Model):
@@ -22,7 +22,7 @@ class Post(models.Model):
     content = RichTextField(blank=True, null=True)
     date_posted = models.DateTimeField(default=timezone.now)
     author = models.ForeignKey(User, on_delete= models.CASCADE)
-    category = models.CharField(max_length=100, default='uncategorized')
+    # category = models.CharField(max_length=100, default='uncategorized')
     snippet = models.CharField(max_length=100)
     likes = models.ManyToManyField(User, related_name='blog_posts')
 
