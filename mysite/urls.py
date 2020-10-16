@@ -8,7 +8,7 @@ from .views import (
     AddBlogPostView,
     UpdateBlogPostView,
     DeletePostView,
-    # AddCategoryView,
+    AddCategoryView,
 )
 
 urlpatterns = [
@@ -22,10 +22,10 @@ urlpatterns = [
     path('blog/', BlogHomeView.as_view(), name ='blog'),
     path('posts/<int:pk>', PostCommentView.as_view(), name='blogpost-detail'),
     path('add_post/', AddBlogPostView.as_view(), name='add_post'),
-    # path('add_category/', AddCategoryView.as_view(), name='add_category'),
+    path('add_category/', AddCategoryView.as_view(), name='add_category'),
     path ('posts/edit/<int:pk>', UpdateBlogPostView.as_view (), name='blogpost-update'),
     path ('posts/<int:pk>/delete', DeletePostView.as_view (), name='blogpost-delete'),
-    # path ('category/<str:cats>/', views.categoryView, name='categories'),
+    path ('category/<str:cats>/', views.categoryView, name='categories'),
 
 ]
 
