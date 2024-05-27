@@ -2,24 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18df20d5-a122-4ee8-9fef-69416e96fa77" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iamsaveen/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Iamsaveen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Iamsaveen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Iamsaveen/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iamsaveen/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/mysite/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/mysite/js/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/mysite/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/mysite/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/owl.carousel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/mysite/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/popper.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/mysite/js/scrollax.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/js/scrollax.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_input-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_input-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/static/mysite/scss/bootstrap/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/members/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/members/templates/registration/change-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/change-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/members/templates/registration/create_userprofile_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/create_userprofile_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/members/templates/registration/edit_profile_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/edit_profile_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/members/templates/registration/edit_settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/edit_settings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/members/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/members/templates/registration/password_success.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/password_success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/members/templates/registration/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/members/templates/registration/user_profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/user_profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/migrations/0002_auto_20201016_1859.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/add_category.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/add_category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/add_post.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/add_post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/categories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/contact_me.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/contact_me.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/delete_post.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/delete_post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/myblog.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/myblog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/post_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/skills.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/update_post.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/update_post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,115 +60,6 @@
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Iamsaveen/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-146">
-              <caret line="146" selection-start-line="146" selection-end-line="148" />
-              <folding>
-                <element signature="e#310#319#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mysite/templates/mysite/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="103" column="50" selection-start-line="103" selection-start-column="50" selection-end-line="103" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/templates/mysite/myblog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/templates/mysite/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-              <folding>
-                <element signature="e#504#579#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/templates/mysite/add_post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/templates/mysite/post_detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="83" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -262,12 +172,16 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1137" />
     <option name="y" value="28" />
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
+  <component name="ProjectId" id="2OJaHneDuTygaTHVdQ6P5Juf5k6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -311,38 +225,29 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/members" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Django_projects\Iamsaveen\members" />
       <recent name="D:\Django_projects\Iamsaveen\mysite\templates\mysite" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\My Files\Django_projects\Iamsaveen\mysite\templates" />
       <recent name="D:\Django_projects\Iamsaveen\mysite\templates\mysite" />
       <recent name="D:\Django_projects\Iamsaveen\mysite\templates\myblog" />
       <recent name="D:\Django_projects\Iamsaveen\mysite\static\mysite" />
       <recent name="D:\Django_projects\Iamsaveen\mysite" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Iamsaveen" type="Python.DjangoServer" factoryName="Django server">
@@ -369,6 +274,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -392,6 +298,11 @@
       <workItem from="1601972552724" duration="103166000" />
       <workItem from="1602819871078" duration="9591000" />
       <workItem from="1602850896544" duration="7545000" />
+      <workItem from="1681281054629" duration="88000" />
+      <workItem from="1696838428037" duration="174000" />
+      <workItem from="1716124963313" duration="5361000" />
+      <workItem from="1716551617395" duration="1429000" />
+      <workItem from="1716830955727" duration="950000" />
     </task>
     <servers />
   </component>
@@ -458,7 +369,18 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mysite/tests.py">
