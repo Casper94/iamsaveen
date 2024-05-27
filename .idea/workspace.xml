@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18df20d5-a122-4ee8-9fef-69416e96fa77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iamsaveen/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Iamsaveen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Iamsaveen.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iamsaveen/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iamsaveen/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/registration/change-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/change-password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/registration/create_userprofile_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/create_userprofile_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/registration/edit_profile_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/edit_profile_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/registration/edit_settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/edit_settings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/registration/password_success.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/password_success.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/registration/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/registration/user_profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/members/templates/registration/user_profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/migrations/0002_auto_20201016_1859.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/add_category.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/add_category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/add_post.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/add_post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/contact_me.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/contact_me.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/delete_post.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/delete_post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/myblog.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/myblog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/post_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/skills.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/templates/mysite/update_post.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/templates/mysite/update_post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="18df20d5-a122-4ee8-9fef-69416e96fa77" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -302,7 +265,7 @@
       <workItem from="1696838428037" duration="174000" />
       <workItem from="1716124963313" duration="5361000" />
       <workItem from="1716551617395" duration="1429000" />
-      <workItem from="1716830955727" duration="950000" />
+      <workItem from="1716830955727" duration="1316000" />
     </task>
     <servers />
   </component>
